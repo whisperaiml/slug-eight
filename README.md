@@ -215,7 +215,7 @@ This is the roadmap I will be following for the complete migration to v3:
 ## ✌️ Contributing
 
 <a href="https://github.com/whisperaiml/slug-eight/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=whisperaiml/slug" />
+  <img src="https://contrib.rocks/image?repo=whisperaiml/slug-eight" />
 </a>
 
 <p></p>

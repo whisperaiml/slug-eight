@@ -37,7 +37,7 @@ export default async function Home() {
             <span>Create a Link</span>
           </Link>
           <ExternalLink
-            href="https://github.com/whisperaiml/slug"
+            href="https://github.com/whisperaiml/slug-eight"
             className={buttonVariants({
               variant: "expandIcon",
               size: "lg",
