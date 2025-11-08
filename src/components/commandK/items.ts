@@ -51,17 +51,17 @@ export const ChangeTheme = [
 export const DocumentationPages = [
   {
     name: "Getting Started",
-    href: "https://github.com/whisperaiml/slug-eight?tab=readme-ov-file#-getting-started",
+    href: "https://github.com/whisperaiml/slug?tab=readme-ov-file#-getting-started",
     icon: SproutIcon,
   },
   {
     name: "Roadmap",
-    href: "https://github.com/whisperaiml/slug-eight?tab=readme-ov-file#-roadmap",
+    href: "https://github.com/whisperaiml/slug?tab=readme-ov-file#-roadmap",
     icon: TelescopeIcon,
   },
   {
     name: "Contributing",
-    href: "https://github.com/whisperaiml/slug-eight?tab=readme-ov-file#%EF%B8%8F-contributing",
+    href: "https://github.com/whisperaiml/slug?tab=readme-ov-file#%EF%B8%8F-contributing",
     icon: HeartHandshakeIcon,
   },
   {
@@ -79,7 +79,7 @@ export const SocialPages = [
   },
   {
     name: "GitHub Repository",
-    href: "https://github.com/whisperaiml/slug-eight",
+    href: "https://github.com/whisperaiml/slug",
     icon: GithubLogo,
   },
 ];

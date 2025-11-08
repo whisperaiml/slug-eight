@@ -1,6 +1,8 @@
 <div align="center">
+  <a href="https://slug-eight.vercel.app">
+    <img
       src="https://raw.githubusercontent.com/whisperaiml/slug-eight/refs/heads/main/public/images/logo_svg.svg"
-      alt="Slug Logo"
+      alt="slug-eight Logo"
       height="64"
     />
   </a>
@@ -40,7 +42,7 @@
 
 ## 👨‍🚀 Introduction
 
-[**Slug**](slug-eight.vercel.app) is a service that offers to shorten urls in a simple, fast and secure way. 
+[**Slug**](slug-eight.vercel.app) is a service that offers to shorten urls in a simple, fast and secure way. It's built with, a web development stack made focused on simplicity, modularity, and full-stack **typesafety**.
 
 This project uses the following technologies:
 
@@ -74,7 +76,7 @@ This project uses the following technologies:
 2. Clone the repository:
 
 ```bash
-git clone git@github.com:YOU_USER/slug-eight.git
+git clone git@github.com:YOU_USER/slug.git
 ```
 
 3. Install dependencies:
@@ -213,14 +215,14 @@ This is the roadmap I will be following for the complete migration to v3:
 ## ✌️ Contributing
 
 <a href="https://github.com/whisperaiml/slug-eight/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=whisperaiml/slug-eight" />
+  <img src="https://contrib.rocks/image?repo=whisperaiml/slug" />
 </a>
 
 <p></p>
 
 ## ☁️ Deploy on Vercel
 
-- ✅ [slug-eight.vercel.app](https://slug-eight.vercel.app/).
+- ✅ [slug.vercel.app](https://slug-eight.vercel.app/).
 
 ## 🔑 License
 

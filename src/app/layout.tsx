@@ -35,7 +35,7 @@ const geistMonoVariable = localFont({
 
 // Metadata:
 export const metadata: Metadata = {
-  metadataBase: new URL("https://slug-eight.vercel.app"),
+  metadataBase: new URL("https://slug.vercel.app"),
   title: {
     default: "Slug - A beautifully open-source URL shortener",
     template: "%s - Slug",
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Slug",
     description: "An beautifully open-source URL shortener",
-    url: "https://slug-eight.vercel.app/images/og_image.png",
+    url: "https://slug.vercel.app/images/og_image.png",
     siteName: "Slug - An beautifully open-source URL shortener",
     locale: "en_US",
     type: "website",
@@ -119,8 +119,8 @@ export default function RootLayout({
         </ThemeProvider>
         <Script
           async
-          src="https://sb-bucket.vercel.app/analytics/script.js"
-          data-website-id="b5d4011c-bc40-11f0-bff3-37cba654f8fc"
+          src="https://umami.whisperaiml.dev/script.js"
+          data-website-id="2495697e-383c-418c-ac85-d8be8837b686"
         />
       </body>
     </html>

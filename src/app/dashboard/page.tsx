@@ -39,7 +39,7 @@ const DashboardPage = async ({
     if (!searchLink && !searchTag) return true;
 
     // Filter links by search slug
-    const matchSlug = !searchLink || link.slug-eight.includes(searchLink);
+    const matchSlug = !searchLink || link.slug.includes(searchLink);
 
     // Filter links by search tag
     const matchTag =

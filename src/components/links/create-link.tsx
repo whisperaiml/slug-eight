@@ -94,7 +94,7 @@ export function CreateLink(props: CreateLinkProps) {
 
       if (slugExists) {
         toast.error(
-          "The slug is already exist. Write another or generate a random slug-eight.",
+          "The slug is already exist. Write another or generate a random slug.",
         );
         return;
       }
@@ -115,7 +115,7 @@ export function CreateLink(props: CreateLinkProps) {
       }
 
       toast.success("Link created successfully", {
-        description: `Url: https://slug-eight.vercel.app/${values.slug}`,
+        description: `Url: https://slug.vercel.app/${values.slug}`,
         duration: 10000,
         closeButton: true,
       });

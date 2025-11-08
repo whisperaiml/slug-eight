@@ -12,7 +12,7 @@ interface CopyLinkProps {
 
 const CopyLinkDropdown = (props: CopyLinkProps) => {
   const [, copy] = useCopyToClipboard();
-  const url = "https://slug-eight.vercel.app";
+  const url = "https://slug.vercel.app";
 
   const handleCopy = (text: string) => () => {
     copy(text)
