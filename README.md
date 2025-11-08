@@ -222,7 +222,7 @@ This is the roadmap I will be following for the complete migration to v3:
 
 ## ☁️ Deploy on Vercel
 
-- ✅ [slug.vercel.app](https://slug-eight.vercel.app/).
+- ✅ [slug-eight.vercel.app](https://slug-eight.vercel.app/).
 
 ## 🔑 License
 
